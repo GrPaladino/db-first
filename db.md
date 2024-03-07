@@ -19,3 +19,4 @@
 | length(mm)       | SMALLINT    | NULL                               |             |
 | height(mm)       | SMALLINT    | NULL                               |             |
 | weight(kg)       | SMALLINT    | NULL                               |             |
+| conditions(new)  | YES/NO      | NOT NULL                           |             |
